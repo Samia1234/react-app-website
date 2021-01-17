@@ -1,0 +1,127 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.text-banner{
+    width: 40%;
+    padding-top: 20px;
+    padding-left: 120px;
+}
+.text-banner h3{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.text-banner h1{
+    font-size: 80px;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-top: 20px;
+}
+p{
+    padding: 15px;
+    width: 90%;
+}
+@media only screen and(min-width:768px){
+    p{
+        width: 100%;
+
+    }
+    
+}
+
+/*Navbar style*/
+nav{
+    margin: 0;
+    background-color: transparent!important;
+    padding: 50px 50px!important;
+}
+.logo{
+    width: 100px;
+    height: 70px;
+}
+.navbar-nav a{
+    text-decoration: none!;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+   margin:10px 20px!important;
+
+}
+.navbar-nav .active{
+    border-bottom: 1px solid #fff;
+
+}
+.nav-link:hover{
+    border-bottom: 1px solid #fff;
+    
+}
+/*style the About partition*/
+.about-text{
+    padding: 100px 60px;
+}
+.about-text h3{
+    text-transform: capitalize;
+    color: rgba(37,37,37,0.7);
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.about-text h1{
+    font-size: 40px;
+    color: #252525;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    inline-size: 60%;
+
+}
+.about-text p{
+    font-size: 18px;
+    color: #6d6c6c;
+    font-weight: 300;
+}
+.about-text .btn-read{
+    margin-top: 10px;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px 40px;
+    background-color: rgba(85,111,114,0.7);
+}
+.about-img img{
+    width: 100%;
+    height: 100%;
+}
+/*********service style***/
+.title{
+    text-transform: uppercase;
+    padding-left: 50px;
+    font-size: 40px;
+    color: #252525;
+    font-weight: 700;
+    line-height: 40px;
+}
+.services{
+    
+}
+.service-img{
+    width: 100%;
+    height: 200px;
+}
+.service-p{
+    font-size: 18px ;
+    color: #3f3e3e;
+    font-weight: 400;
+}
