@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-app-website/static/css/main.767cf160.chunk.css",
+    "main.js": "/react-app-website/static/js/main.35389c45.chunk.js",
+    "main.js.map": "/react-app-website/static/js/main.35389c45.chunk.js.map",
+    "runtime-main.js": "/react-app-website/static/js/runtime-main.609a9718.js",
+    "runtime-main.js.map": "/react-app-website/static/js/runtime-main.609a9718.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/react-app-website/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5519da21.chunk.js": "/react-app-website/static/js/2.5519da21.chunk.js",
+    "static/js/2.5519da21.chunk.js.map": "/react-app-website/static/js/2.5519da21.chunk.js.map",
+    "static/js/3.76a8eb64.chunk.js": "/react-app-website/static/js/3.76a8eb64.chunk.js",
+    "static/js/3.76a8eb64.chunk.js.map": "/react-app-website/static/js/3.76a8eb64.chunk.js.map",
+    "index.html": "/react-app-website/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/react-app-website/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.767cf160.chunk.css.map": "/react-app-website/static/css/main.767cf160.chunk.css.map",
+    "static/js/2.5519da21.chunk.js.LICENSE.txt": "/react-app-website/static/js/2.5519da21.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-app-website/static/media/bg.c3116290.jpg",
+    "static/media/deco1.115013fa.jpg": "/react-app-website/static/media/deco1.115013fa.jpg",
+    "static/media/jardin.0eb0178e.jpg": "/react-app-website/static/media/jardin.0eb0178e.jpg",
+    "static/media/office.d307ba85.jpg": "/react-app-website/static/media/office.d307ba85.jpg",
+    "static/media/restaurant.23ec84ae.jpg": "/react-app-website/static/media/restaurant.23ec84ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.609a9718.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5519da21.chunk.js",
+    "static/css/main.767cf160.chunk.css",
+    "static/js/main.35389c45.chunk.js"
+  ]
+}
